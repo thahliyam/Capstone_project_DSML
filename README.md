@@ -1,5 +1,7 @@
 Capstone Project: Predicting Online Shopper Purchasing Intentions
+
 Project Overview
+
 This project utilizes the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository to predict whether a visitor to an e-commerce platform will make a purchase. The dataset consists of 12,330 records and 18 features, including numeric and categorical variables that describe user behavior during each session.
 
 Target Variable

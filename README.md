@@ -1,4 +1,10 @@
 # Capstone_project_DSML
+Data Story
+The dataset used in this project is the Online Shoppers Purchasing Intention Dataset, originally published on the UCI Machine Learning Repository.
+
+The data consists of 12,330 records and 18 features, including both numeric and categorical variables that describe user behavior during each session.
+
+Each row in the dataset represents a user session, with features such as the number of pages visited in different sections (Administrative, Informational, ProductRelated), the duration spent on each, bounce and exit rates, traffic source, month of the visit, visitor type, and whether the session occurred on a weekend. The target variable, Revenue, is a binary indicator of whether the session resulted in a purchase.
 This capstone project aims to understand and predict user behavior on an e-commerce platform—specifically, whether a visitor will generate revenue. The dataset contains various features such as the duration spent on different types of pages, bounce rates, exit rates, month of visit, traffic types, and other behavioral indicators.
 
 After loading and exploring the dataset, some important cleaning steps were performed. For example, columns like Revenue and Weekend were originally not in numeric format and were converted to integers for better analysis and model compatibility. The dataset was then analyzed to identify categorical and numerical features so that appropriate preprocessing could be applied to each.
